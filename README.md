@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zair-Hanzo
-- 👀 I’m interested in Software development and Back-end development
+- 👀 I’m interested in Software development(Back-end development0000000)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on (don't know yet)
 - 📫 How to reach me: zairganiev2858@gmail.com
